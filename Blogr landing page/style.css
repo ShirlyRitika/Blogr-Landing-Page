@@ -1,0 +1,154 @@
+body{
+    background-color: whitesmoke;
+    width: max-content;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    height: fit-content;
+}
+.blog{
+    text-align: right;
+    justify-content: right;
+    padding-left: 10px;
+}
+.hamburger-menu{
+    justify-content: flex-end;
+    align-items: end;
+     padding-left: 250px;
+    
+}
+.begin{
+    background-image: url(./images/bg-pattern-intro-mobile.svg);
+    background-color: hsl(356, 100%, 66%);
+    color: white;
+    height: 500px;
+    border-bottom-left-radius: 100px;
+    width: 380px;
+    font-family: cursive;
+    padding-top: 50px;
+}
+.start{
+    border: 1px solid white;
+    background-color: white;
+    height: 39px;
+    width: 120px;
+    border-radius: 15px;
+    font-family: cursive;
+    font-weight: bolder;
+}
+.More{
+    border: 1px solid white;
+    background-color: hsl(356, 100%, 66%) ;
+    height: 39px;
+    color: white;
+    width: 120px;
+    border-radius: 15px;
+    font-family: cursive;
+    size: 20px;
+    font-weight: bolder;
+}
+
+.blog{
+     width: 75px;
+     text-align: right;
+     align-items: flex-start;
+     justify-content: right;
+}
+.login{
+    padding-left: 250px;
+    padding-top: 2px;
+    background-image: url(./images/bg-pattern-intro-desktop.svg);
+    background-color: hsl(0, 59%, 54%);
+}
+button{
+    background-color: white;
+    color: hsl(356, 100%, 66%);
+    border-radius: 10px;
+    border: 1px solid white;
+    margin: auto;
+    height: 16px;
+    width: 80px;
+}
+.learn{
+    width: 100px;
+    background-color: hsl(0, 59%, 54%);
+    height: 25px;
+}
+.modern{
+    background-image: url(./images/bg-pattern-intro-desktop.svg);
+    background-color: hsl(0, 59%, 54%);
+    color: white;
+}
+.for{
+    width: 120px;
+    color: hsl(0, 59%, 54%);
+}
+
+.design{
+    background-color:  hsl(0, 0%, 100%);
+    background-image: url(./images/bg-pattern-intro-mobile.svg);
+    color: rgb(44, 36, 36);
+}
+
+.mobile{
+    height: 300px;
+}
+.para{
+    background-color: white;
+    letter-spacing: 0.5px;
+}
+.phone{
+    height: 300px;
+}
+.art{
+    background-image: url(./images/bg-pattern-intro-mobile.svg);
+    background-color:  hsl(237, 23%, 32%);
+    background-position: bottom;
+    border-bottom-left-radius: 50px;
+    height: 615px;
+    width: fit-content;
+    word-spacing: normal;
+    color: white;
+    padding-left: 50px;
+    /*word-break: break-all;
+    letter-spacing: 0.7px;*/
+}
+.simple{
+    background-image: url(./images/bg-pattern-intro-mobile.svg);
+    background-color: white;
+    text-align: center;
+    align-items: center;
+    word-spacing: 0.5px;
+    justify-content: center;
+    word-wrap: break-word;
+    word-break: break-all;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    padding: inline 1%;
+}
+.lap{
+    width: 400px;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+   
+}
+.open{
+    text-align: center;
+    background-color: white;
+    color: hsl(237, 17%, 21%);
+    background-color: white;
+}
+.footer{
+    color: hsl(240, 2%, 79%);
+    text-align: center;
+    align-items: center;
+    background-color:hsl(240, 10%, 16%);
+    height: 980px;
+    border-top-right-radius: 100px;
+    padding-top: 10px;
+    font-weight: normal;
+    font-size: larger;
+}
